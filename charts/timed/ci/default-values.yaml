@@ -13,7 +13,7 @@ auth:
         secret: foo
 
 prometheus:
-  enabled: true
+  enabled: false
 
 grafana:
-  enabled: true
+  enabled: false
